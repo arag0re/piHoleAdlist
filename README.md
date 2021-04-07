@@ -1,6 +1,7 @@
 # piHoleAdlist
  adlist for pi-hole with a lot of common and not so common adlists
- included Lists
+ 
+ # included Lists:
 
 https://v.firebog.net/hosts/Easylist.txt
 https://adaway.org/hosts.txt 
