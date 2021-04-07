@@ -2,7 +2,7 @@
  adlist for pi-hole with a lot of common and not so common adlists
  included Lists
 
-https://v.firebog.net/hosts/Easylist.txt 
+https://v.firebog.net/hosts/Easylist.txt
 https://adaway.org/hosts.txt 
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt 
 https://block.energized.pro/extensions/regional/formats/domains.txt 
